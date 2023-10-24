@@ -1,0 +1,29 @@
+[
+	{
+		"id": 3,
+		"title": "Pera",
+		"description": "fruta",
+		"price": 50000,
+		"thumbnail": "URL - WEB",
+		"code": "106",
+		"stock": 9000
+	},
+	{
+		"id": 1,
+		"title": "Sandia",
+		"description": "fruta",
+		"price": 100,
+		"thumbnail": "URL - WEB",
+		"code": "104",
+		"stock": 7000
+	},
+	{
+		"id": 2,
+		"title": "Manzana",
+		"description": "fruta",
+		"price": 200,
+		"thumbnail": "URL - WEB",
+		"code": "105",
+		"stock": 8000
+	}
+]
